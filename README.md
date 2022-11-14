@@ -37,13 +37,5 @@ C=-\left(\left(-\left(\left(\left(\left(-\left(\left(i_{1}\cdot i_{2}\right)-1\r
 
 And the output is as follows:
 
-i1 i2 C -- SUM CARRY
+![image](https://user-images.githubusercontent.com/94403790/201755159-7648150a-ae35-4d3d-824b-c3b4319ced1d.png)
 
-0  0  0     0   0
-1  0  0     1   0
-0  1  0     1   0
-0  0  1     1   0
-1  1  0     0   1
-0  1  1     0   1
-1  0  1     0   1
-1  1  1     1   1
