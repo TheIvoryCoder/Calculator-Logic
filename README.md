@@ -25,23 +25,23 @@ Here is a list of all Logic Gates I have figured out so far:
 
 **NOT:**
 
--\left(\left(i_{2}\right)-1\right)
+-\left(i_{1}-1\right)
 
 **NAND:**
 
--\left(\left(i_{1}\cdot i_{2}\right)-1\right)
+-\left(i_{1}\cdot i_{2}-1\right)
 
 **OR:**
 
--\left(\left(-\left(\left(i_{1}\right)-1\right)\cdot-\left(\left(i_{2}\right)-1\right)\right)-1\right)
+-\left(\left(-\left(i_{1}-1\right)\cdot-\left(i_{2}-1\right)\right)-1\right)
 
 **NOR:**
 
-\left(-\left(\left(i_{1}\right)-1\right)\cdot-\left(\left(i_{2}\right)-1\right)\right)
+-\left(i_{1}-1\right)\cdot-\left(i_{2}-1\right)
 
 **XOR:**
 
-\left(-\left(\left(i_{1}\cdot i_{2}\right)-1\right)\cdot-\left(\left(\left(-\left(\left(i_{1}\right)-1\right)\cdot-\left(\left(i_{2}\right)-1\right)\right)\right)-1\right)\right)
+-\left(i_{1}\cdot i_{2}-1\right)\cdot-\left(-\left(i_{1}-1\right)\cdot-\left(i_{2}-1\right)-1\right)
 
 ----------------------------------------------------------------------------
 
