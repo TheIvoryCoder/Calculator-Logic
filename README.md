@@ -8,11 +8,11 @@ For example, if you use a smart calculator that can store algebraic variables, t
 
 AND gate 
 
-\left(i_{1}\cdot i_{2}\right) 
+i_{1}\cdot i_{2}
 
 or a NOT gate
 
--\left(\left(i_{2}\right)-1\right)
+-\left(i_{1}-1\right)
 
 
 Here is a list of all Logic Gates I have figured out so far:
@@ -21,7 +21,7 @@ Here is a list of all Logic Gates I have figured out so far:
 
 **AND:**
 
-\left(i_{1}\cdot i_{2}\right)
+i_{1}\cdot i_{2}
 
 **NOT:**
 
