@@ -57,9 +57,9 @@ c_{1}=0
 
 And Two outputs. The SUM and the CARRY:
 
-S=\left(-\left(\left(\left(-\left(\left(i_{1}\cdot i_{2}\right)-1\right)\cdot-\left(\left(\left(-\left(\left(i_{1}\right)-1\right)\cdot-\left(\left(i_{2}\right)-1\right)\right)\right)-1\right)\right)\cdot c_{1}\right)-1\right)\cdot-\left(\left(\left(-\left(\left(\left(-\left(\left(i_{1}\cdot i_{2}\right)-1\right)\cdot-\left(\left(\left(-\left(\left(i_{1}\right)-1\right)\cdot-\left(\left(i_{2}\right)-1\right)\right)\right)-1\right)\right)\right)-1\right)\cdot-\left(\left(c_{1}\right)-1\right)\right)\right)-1\right)\right)
+S=-\left(-\left(i_{1}\cdot i_{2}-1\right)\cdot-\left(-\left(i_{1}-1\right)\cdot-\left(i_{2}-1\right)-1\right)\cdot c-1\right)\cdot-\left(-\left(-\left(i_{1}\cdot i_{2}-1\right)\cdot-\left(-\left(i_{1}-1\right)\cdot-\left(i_{2}-1\right)-1\right)-1\right)\cdot-\left(c-1\right)-1\right)
 
-C=-\left(\left(-\left(\left(\left(\left(-\left(\left(i_{1}\cdot i_{2}\right)-1\right)\cdot-\left(\left(\left(-\left(\left(i_{1}\right)-1\right)\cdot-\left(\left(i_{2}\right)-1\right)\right)\right)-1\right)\right)\cdot c_{1}\right)\right)-1\right)\cdot-\left(\left(\left(i_{1}\cdot i_{2}\right)\right)-1\right)\right)-1\right)
+C=-\left(\left(-\left(-\left(i_{1}\cdot i_{2}-1\right)\cdot-\left(-\left(i_{1}-1\right)\cdot-\left(i_{2}-1\right)-1\right)\cdot c-1\right)\cdot-\left(i_{1}\cdot i_{2}-1\right)\right)-1\right)
 
 And the output is as follows:
 
